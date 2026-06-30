@@ -12,10 +12,11 @@
     "Motto": "Spare time to be poet.",
   },
   "Contact": {
-    "Hopmepage": "https://liqiang.info",
+    "Homepage": "https://liqiang.info",
     "Blog": "https://blog.liqiang.info",
     "E-Mail": "yunliyo@foxmail.com",
     "WeChat": "yunliyo101",
+    "QQ": "1598712209",
   }
 }
 ```
